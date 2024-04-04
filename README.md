@@ -5,6 +5,7 @@ In this program, the array is divided into two arryas by finding middle element.
 Then the number to find is compared with middle element. If it is find then it will return index number.
 If not it is compared with both the divided arrays and return the index number.
 If it is not present in array it will return -1.
+
 Output:
 ![image](https://github.com/AmanPunekar/Technical-assessment/assets/68313251/fb03ffb3-0a7d-4709-a0b1-80661cab64ff)
 
